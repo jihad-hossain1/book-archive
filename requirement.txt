@@ -1,0 +1,11 @@
+Project 5 [Practice Task]: Select Best 5 Player
+Requirements -
+1. Change the Alert by  Showing an error message
+2. Handle Negative Input for all 3 input fields
+3. Stop Calculating before Player Selection
+4. Handle Extra Player Adding Issue
+5. Input field value needs to clear
+6. handle string & blank input & show error message
+Check 
+Live Site [with bugs]- https://select-best-five-player-bugs.netlify.app/ 
+Live Site [without bugs]- https://select-best-five-player-js-project.netlify.app 
